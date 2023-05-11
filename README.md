@@ -26,3 +26,6 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphaelDerouelle&show_icons=true&locale=en&layout=compact" alt="RaphaelDerouelle" /></p>
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
