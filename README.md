@@ -2,11 +2,11 @@
 
 <h2>🚀 DevOps Addict</h2>
 <h5> Facts about me :</h5>
-<ol>
+<ul>
   <li>I live inside a docker container</li>
   <li>Spent half of my life confguring Neovim and still can't exit it</li>
   <li>I use ArchLinux</li>
-</ol>
+</ul>
 
 <p></p>
 
