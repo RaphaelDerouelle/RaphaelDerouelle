@@ -1,8 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=rect&text=Welcome&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=venom&height=210&color=gradient&text=Hi,%20my%20name%20is%20Raphaël%20⛵&fontSize=34&textBg=false&animation=scaleIn&fontAlignY=50&reversal=false)
+
+<h2>🚀 DevOps Addict</h2>
+<p>I use ArchLinux BTW</p>
+
+<p></p>
 
 
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
@@ -26,6 +30,3 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphaelDerouelle&show_icons=true&locale=en&layout=compact" alt="RaphaelDerouelle" /></p>
-
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
