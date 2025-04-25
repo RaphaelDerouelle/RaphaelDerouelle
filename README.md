@@ -1,16 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=210&color=gradient&text=Hi,%20my%20name%20is%20Raphaël%20⛵&fontSize=34&textBg=false&animation=scaleIn&fontAlignY=50&reversal=false)
 
-<h2>🚀 DevOps Addict</h2>
-<h5> Facts about me :</h5>
-<ul>
-  <li>I live inside a docker container</li>
-  <li>Spent half of my life confguring Neovim and still can't exit it</li>
-  <li>I use ArchLinux</li>
-</ul>
-
-<p></p>
-
-
 <h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
